@@ -10,7 +10,7 @@ void foo(void);
 void bar(void);
 
 int main() {
-    if (var_1) {
+    if (1) {
         var_1++;
         var_2++;
         var_3++;
