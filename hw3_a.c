@@ -12,8 +12,8 @@ void bar(void);
 int main() {
     var_1 = var_1 + var_3;
     var_2++;
-    double var_4;
-    int var_5;
+    double var_4 = var_3;
+    int var_5 = var_2;
     puts("20252028");
     foo();
     bar();
