@@ -12,9 +12,6 @@ void foo(void) {
 void bar(void) {
     double math = sqrt(var_2);
     var_3++;
-    var_2++;
-    var_5++;
-    math = var_5;
 }
 
 void foo_bar(void) {
