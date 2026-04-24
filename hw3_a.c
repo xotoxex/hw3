@@ -12,6 +12,8 @@ void bar(void);
 int main() {
     var_1 = var_1 + var_3;
     var_2++;
+    var_3;
+    var_2;
     
     
     puts("20252028");
