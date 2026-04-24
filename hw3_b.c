@@ -10,7 +10,7 @@ void foo(void) {
 }
 
 void bar(void) {
-    double math = sqrt(var_2);
+    int math = sqrt(var_2);
     var_3++;
     var_2++;
 }
