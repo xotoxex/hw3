@@ -15,6 +15,7 @@ int main() {
         var_2++;
         var_3++;
     }
+    __asm__("nop\nnop");
     puts("20252028");
     foo();
     bar();
