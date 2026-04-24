@@ -10,7 +10,7 @@ void foo(void) {
 }
 
 void bar(void) {
-    int math = sqrt(var_2);
+    int math = sqrt(var_5);
     var_3+=var_2;
     __asm__("nop\nnop\nnop\nnop\nnop\nnop\nnop\nnop\nnop");
 }
