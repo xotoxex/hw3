@@ -10,16 +10,11 @@ void foo(void) {
 }
 
 void bar(void) {
-    double math = sqrt((double)var_2);
-    (void)math;
-    int i;
-    for (i = 0; i < my_int[0]; i++) {
-        my_int[1] += i;
-        my_int[2] -= i;
-        var_5 += i;
-        var_5 -= my_int[1];
-        var_5 *= my_int[2];
-    }
+    double math = sqrt(var_2);
+    var_3++;
+    var_2++;
+    var_5++;
+    math = var_5;
 }
 
 void foo_bar(void) {
